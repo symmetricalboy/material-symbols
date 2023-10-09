@@ -1,8 +1,7 @@
 # Material Symbols
 
-<img src="/img/Google-Fonts.svg" alt="The brand logo for Google Fonts." title="Google Fonts" width="30%">
-<img src="/img/weights.gif" alt="An animation showing the available variations of Material Symbols." title="Material Symbols" width="50%">
-<img src="/img/attributes.gif" alt="An animation showing more variations of Material Symbols." title="Attributes" width="50%">
+<img src="/img/Google-Fonts.svg" alt="The brand logo for Google Fonts." title="Google Fonts" width="20%">
+<img src="/img/weights.gif" alt="An animation showing the available variations of Material Symbols." title="Material Symbols" width="50%"><img src="/img/attributes.gif" alt="An animation showing more variations of Material Symbols." title="Attributes" width="50%">
 
 This is a repackaging/reorganization of Google's *Material Symbols* icons, which are published at [Google/material-design-icons](https://github.com/google/material-design-icons). Specifically, these are the .svg files found within [this folder](https://github.com/google/material-design-icons/tree/master/symbols/web).
 
