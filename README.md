@@ -1,16 +1,16 @@
 # Material Symbols
 
-![Material Symbols](/img/weights.gif)
+![Material Symbols](/img/weights.gif  | align="center" width=500)
 
-![Google Fonts](/img/Google-Fonts.svg)
+![Google Fonts](/img/Google-Fonts.svg | align="right" width=250)
 
-This is a repackaging/reorganization of Google's *Material Symbols* icons, which are published at [Google/material-design-icons](Google/material-design-icons). Specifically, these are the .svg files found within [this folder](https://github.com/google/material-design-icons/tree/master/symbols/web).
+This is a repackaging/reorganization of Google's *Material Symbols* icons, which are published at [Google/material-design-icons](https://github.com/google/material-design-icons). Specifically, these are the .svg files found within [this folder](https://github.com/google/material-design-icons/tree/master/symbols/web).
 
 The icons there are organized in a folder structure of 3,150 folders grouping all 504 variations of each individual glyph. Here, instead, I have grouped all 3,150 unique glyphs into 504 folders by variant. This allows you to grab a full set of icons in a chosen style variant much more easily.
 
-This was done primarily for usage with [Iconize](FlorianWoelki/obsidian-iconize), a plugin for [Obsidian](obsidianmd/obsidian-releases), but the full library was sorted so that it may serve some use in other applications in the future.
+This was done primarily for usage with [Iconize](https://github.com/FlorianWoelki/obsidian-iconize), a plugin for [Obsidian](https://github.com/obsidianmd/obsidian-releases), but the full library was sorted so that it may serve some use in other applications in the future.
 
 If you would like to explore the available glyphs in *Material Symbols*, check out [this page on Google Fonts](https://fonts.google.com/icons).
 
-![Attributes](/img/attributes.gif)
+![Attributes](/img/attributes.gif | align="center" width=500)
 
