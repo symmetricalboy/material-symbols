@@ -1,8 +1,8 @@
 # Material Symbols
 
-![Material Symbols](/img/weights.gif  | align="center" width=500)
+![Material Symbols](/img/weights.gif  | width=500)
 
-![Google Fonts](/img/Google-Fonts.svg | align="right" width=250)
+![Google Fonts](/img/Google-Fonts.svg | width=250)
 
 This is a repackaging/reorganization of Google's *Material Symbols* icons, which are published at [Google/material-design-icons](https://github.com/google/material-design-icons). Specifically, these are the .svg files found within [this folder](https://github.com/google/material-design-icons/tree/master/symbols/web).
 
@@ -12,5 +12,5 @@ This was done primarily for usage with [Iconize](https://github.com/FlorianWoelk
 
 If you would like to explore the available glyphs in *Material Symbols*, check out [this page on Google Fonts](https://fonts.google.com/icons).
 
-![Attributes](/img/attributes.gif | align="center" width=500)
+![Attributes](/img/attributes.gif | width=500)
 
