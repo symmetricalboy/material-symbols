@@ -11,6 +11,7 @@ This was done primarily for usage with [Iconize](https://github.com/FlorianWoelk
 If you would like to explore the available glyphs in *Material Symbols*, check out [this page on Google Fonts](https://fonts.google.com/icons).
 
 
+
 ![Attributes](/img/attributes.gif)
 
 ![Google Fonts](/img/Google-Fonts.svg)
